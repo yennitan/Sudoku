@@ -1,4 +1,0 @@
-Sudoku
-======
-
-puzzle generator + solution
